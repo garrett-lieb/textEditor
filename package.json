@@ -19,6 +19,7 @@
     "if-env": "^1.0.4"
   },
   "devDependencies": {
+    "@babel/plugin-transform-class-properties": "^7.24.1",
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
   }
